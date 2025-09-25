@@ -119,6 +119,7 @@ The Top Interview 150 collection on Leetcode is a curated set of 150 interview q
       <td>✅</td>
     </tr>
     <tr>
+      
       <td>6</td>
       <td>
         <a href="https://chunhthanhde.gitbook.io/leetcode-top-interview/topic-1-array-string/006-rotate-array" target="_blank">
